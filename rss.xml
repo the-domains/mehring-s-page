@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mehring's Page]]></title>
         <description><![CDATA[Mehring's Page]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mehring-s-page/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 02:53:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 02:57:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mehring-s-page/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>WELCOME!</p>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/mehring-s-page/welcome/index.html</link>
             <guid isPermaLink="false">8c41ce8a-fd9c-43a9-b280-0be74e795ce4</guid>
-            <pubDate>Wed, 09 Mar 2016 02:53:21 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 02:56:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
