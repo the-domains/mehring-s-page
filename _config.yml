@@ -1,6 +1,6 @@
 name: "Mehring's Page"
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73483
 typography_spectrum: 0.26743
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#a47037'
     - '#f4ffff'
     - '#70513d'
-  brandStrength: 0.9306142616551369
+  brandStrength: 1
   lightness: 0.9274282872211188
   saturation: 0.8944065414834768
   rhythmicContrast: 0.5187025247141719
