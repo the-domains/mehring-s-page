@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My philosophy has always been based on teaching methods that integrate technologies to\_enhance and expand the second language learning environment in ways unobtainable by\_traditional methods. Conole (2004) expressed it perfectly when he said, there is a lapse between\_what is proposed and the actual use of technology in the classroom; there is minimal evidence\_that fundamental change in education has taken place as a result of the application of emerging technologies. Teachers need to create environments and experiences where students come\_together, either face-to-face or online, to discover and construct new learning, become members\_of the community of learners, and solve problems (Barr & Tagg, 1995). In this new ecological\_learning environment, students learn to be active learners and constructors of their knowledge,\_developing and creating entire frameworks of new knowledge through collaborative, authentic\_use of students’ previous knowledge. In keeping with van Lier’s (2000) principles of ecological\_education, I am continually looking for new ways of teaching, integrating technology into\_learning, and researching education in order to expand the quality of the learner’s environment\_both inside and outside the classroom.\_"
-datePublished: '2016-04-06T00:49:51.702Z'
-dateModified: '2016-04-06T00:49:13.647Z'
+datePublished: '2016-04-06T05:12:38.905Z'
+dateModified: '2016-04-06T05:12:20.430Z'
 title: Teaching Philosophy
 author: []
+sourcePath: _posts/2016-04-06-teaching-philosophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-teaching-philosophy.md
-published: true
 url: teaching-philosophy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad89f5e1-344a-49e4-95dd-5d50b223ce85.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7db7610d-c3ef-4884-bf4d-c6cdd017a22f.png)
 
 # Teaching Philosophy
 
