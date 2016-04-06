@@ -1,6 +1,6 @@
 name: "Mehring's Page"
 favicon: null
-layout_spectrum: 0.73483
+layout_spectrum: 0.49217
 typography_spectrum: 0.26743
 cta:
   domain: null
@@ -17,10 +17,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#fece00'
-    - '#cb161b'
-    - '#020204'
-    - '#8f9095'
+    - '#49484d'
+    - '#000000'
+    - '#ce3e3d'
+    - '#fb9401'
   brandStrength: 1
   lightness: 0.5
   saturation: 0
